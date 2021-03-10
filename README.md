@@ -1,7 +1,46 @@
-# sapper-template
+> THIS PROJECT IS A BASIC PROTOTYPE THAT IS CURRENTLY ABANDONED
+> 
 
-The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
+# HabNet Frontend
 
+HabNet is an event-driven, real time cybernetic system to monitor, analyze, predict, correct, and alert.
+
+It monitors the health, integrity, and stability of a habitat cluster to ensure optimal working of life support and safety systems, and as a secondary purpose, maximal quality of life and health.
+
+It analyzes incoming data from multiple sources, such as sensors, triggers, and manual entry, to generate an event history that can produce visualizations, alerts, and action suggestions.
+
+It predicts trends using known data to proactively react and build capacity to maintain habitat cluster health.
+
+It corrects by identifying issues, and using programmable triggers, automatically fixes issues if it can.
+
+And finally, it alerts using an escalation system issues that need immediate or short-term actions to protect habitat cluster homeostasis.
+
+## API
+### Event Logging
+### Analytics
+#### Prediction Engine
+### Layout Overview
+### Alerting
+
+## Data
+### Schema
+### Backup
+
+## Web
+### Event Log
+### Analytics
+#### Visualization
+### Layout Overview
+#### SVG Map
+#### Real-time Update
+### Alerting
+
+## Modules
+
+## Simulator
+### Module Generator
+### Event Generator
+### Control Interface
 
 ## Getting started
 
